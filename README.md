@@ -1,4 +1,4 @@
-<img width="1000" alt="Ekran Resmi 2022-09-19 17 51 26" src="https://scx2.b-cdn.net/gfx/news/hires/2009/materialssci.jpg">
+<img src="https://scx2.b-cdn.net/gfx/news/hires/2009/materialssci.jpg" style="width:800px;height:300px;">
 
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <!--
