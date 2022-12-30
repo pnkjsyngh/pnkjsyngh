@@ -1,4 +1,4 @@
-<img src="glass-blowing-429114_1920-1600x900.jpg" style="object-fit: contain;"  alt="Glass Window">
+<img src="glass-blowing-429114_1920-1600x900.jpg" style="object-fit: none;"  alt="Glass Window">
 
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <!--
