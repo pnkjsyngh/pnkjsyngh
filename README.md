@@ -1,4 +1,4 @@
-<img width="771" alt="Ekran Resmi 2022-09-19 17 51 26" src="https://user-images.githubusercontent.com/53175384/191059940-417c0766-0b8a-4e57-a998-e696fc3f5b89.png">
+<img width="771" alt="Ekran Resmi 2022-09-19 17 51 26" src="https://scx2.b-cdn.net/gfx/news/hires/2009/materialssci.jpg">
 
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <!--
