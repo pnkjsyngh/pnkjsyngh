@@ -1,4 +1,4 @@
-<img src="https://static.scientificamerican.com/sciam/cache/file/67DD2BDA-2603-4D2D-B24E99CBC6E9ACB0_source.jpg?w=590&h=800&B1A2274B-E1C1-463B-91F9C6F759B8ED45" style="object-fit: contain;"  alt="Glass Window">
+<img src="glass-blowing-429114_1920-1600x900.jpg" style="object-fit: contain;"  alt="Glass Window">
 
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <!--
