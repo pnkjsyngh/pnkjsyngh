@@ -1,4 +1,4 @@
-<img src="https://scx2.b-cdn.net/gfx/news/hires/2009/materialssci.jpg" style="width:800px;height:300px;object-fit: scale-down;"  alt="Glass Window">
+<img src="https://scx2.b-cdn.net/gfx/news/hires/2009/materialssci.jpg" style="width:800px;height:300px;object-fit: contain;"  alt="Glass Window">
 
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <!--
